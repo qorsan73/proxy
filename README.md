@@ -11,5 +11,15 @@ It is a tool that makes a lot of working proxy for all countries by 100%
 * python3 proxy.py
 
 # note
+To save proxy files, type the following
 
-After downloading, press ls
+* mv proxies_anonymous /sdcard
+* mv proxies /sdcard
+* mv proxies_geolocation_anonymous /sdcard
+* mv proxies_geolocation /sdcard
+
+# Contact me via
+
+whatsapp : +967737572399
+
+telegram : https://t.me/qorsantaez73
